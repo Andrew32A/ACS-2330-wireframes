@@ -45,3 +45,7 @@ Outline:
     - Footer
         - Name: Andrew Alsing
         - Copyright
+
+# Wireframes
+<img src="https://github.com/Andrew32A/ACS-2330-wireframes/blob/main/images/desktop.png" align="center">
+<img src="https://github.com/Andrew32A/ACS-2330-wireframes/blob/main/images/mobile.png" align="center">
